@@ -1,4 +1,4 @@
-### Yolo applied to web cam feed for realtime object detection
+### Yolo applied to webcam feed for realtime object detection
 #### download model from:
 https://pjreddie.com/media/files/yolov3.weights
 
